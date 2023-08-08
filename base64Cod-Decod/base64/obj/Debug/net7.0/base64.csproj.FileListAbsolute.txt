@@ -1,0 +1,15 @@
+C:\Users\gabri\Desktop\C#\base64Cod-Decod\base64\bin\Debug\net7.0\base64.exe
+C:\Users\gabri\Desktop\C#\base64Cod-Decod\base64\bin\Debug\net7.0\base64.deps.json
+C:\Users\gabri\Desktop\C#\base64Cod-Decod\base64\bin\Debug\net7.0\base64.runtimeconfig.json
+C:\Users\gabri\Desktop\C#\base64Cod-Decod\base64\bin\Debug\net7.0\base64.dll
+C:\Users\gabri\Desktop\C#\base64Cod-Decod\base64\bin\Debug\net7.0\base64.pdb
+C:\Users\gabri\Desktop\C#\base64Cod-Decod\base64\obj\Debug\net7.0\base64.csproj.AssemblyReference.cache
+C:\Users\gabri\Desktop\C#\base64Cod-Decod\base64\obj\Debug\net7.0\base64.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\Desktop\C#\base64Cod-Decod\base64\obj\Debug\net7.0\base64.AssemblyInfoInputs.cache
+C:\Users\gabri\Desktop\C#\base64Cod-Decod\base64\obj\Debug\net7.0\base64.AssemblyInfo.cs
+C:\Users\gabri\Desktop\C#\base64Cod-Decod\base64\obj\Debug\net7.0\base64.csproj.CoreCompileInputs.cache
+C:\Users\gabri\Desktop\C#\base64Cod-Decod\base64\obj\Debug\net7.0\base64.dll
+C:\Users\gabri\Desktop\C#\base64Cod-Decod\base64\obj\Debug\net7.0\refint\base64.dll
+C:\Users\gabri\Desktop\C#\base64Cod-Decod\base64\obj\Debug\net7.0\base64.pdb
+C:\Users\gabri\Desktop\C#\base64Cod-Decod\base64\obj\Debug\net7.0\base64.genruntimeconfig.cache
+C:\Users\gabri\Desktop\C#\base64Cod-Decod\base64\obj\Debug\net7.0\ref\base64.dll
